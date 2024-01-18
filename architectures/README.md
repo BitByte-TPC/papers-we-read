@@ -1,0 +1,1 @@
+This folder contains paper-summaries which present subtle changes to vanilla architecture of neural networks, that is something different from the plain input-hidden-output layer.

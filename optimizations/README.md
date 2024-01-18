@@ -1,0 +1,1 @@
+This folder contains paper-summaries which present optimization techniques for neural networks to reduce train and inference time, or simply lower the compuational load.
